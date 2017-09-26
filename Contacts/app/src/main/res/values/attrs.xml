@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="mutiple_items">
+        <attr name="heading_title" format="string" />
+        <attr name="item_hint" format="string" />
+    </declare-styleable>
+</resources>
